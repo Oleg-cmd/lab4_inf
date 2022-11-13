@@ -1,0 +1,132 @@
+[
+    "#document",
+    {
+        "Wednesday": {
+            "#text": [
+                {
+                    "data": "\n    "
+                },
+                {
+                    "data": "\n    \n    "
+                },
+                {
+                    "data": "\n"
+                }
+            ],
+            "Practical-lesson-1": {
+                "#text": [
+                    {
+                        "data": "\n        "
+                    },
+                    {
+                        "data": "\n        "
+                    },
+                    {
+                        "data": "\n        "
+                    },
+                    {
+                        "data": "\n        "
+                    },
+                    {
+                        "data": "\n    "
+                    }
+                ],
+                "Auditory": {
+                    "#text": {
+                        "data": "\n            \u0430\u0443\u0434. 3413\n        "
+                    }
+                },
+                "Full-adress": {
+                    "#text": {
+                        "data": "\n            room 3413 \u0443\u043b. \u041b\u043e\u043c\u043e\u043d\u043e\u0441\u043e\u0432\u0430, \u0434.9, \u043b\u0438\u0442. \u0415\n        "
+                    }
+                },
+                "Lesson": {
+                    "#text": {
+                        "data": "\n            \u0418\u043d\u043e\u0441\u0442\u0440\u0430\u043d\u043d\u044b\u0439 \u044f\u0437\u044b\u043a\n        "
+                    }
+                },
+                "Time": {
+                    "#text": [
+                        {
+                            "data": "\n            "
+                        },
+                        {
+                            "data": "\n            "
+                        },
+                        {
+                            "data": "\n        "
+                        }
+                    ],
+                    "Time-end": {
+                        "#text": {
+                            "data": "\n                13.10\n            "
+                        }
+                    },
+                    "Time-start": {
+                        "#text": {
+                            "data": "\n                11.40\n            "
+                        }
+                    }
+                }
+            },
+            "Practical-lesson-2": {
+                "#text": [
+                    {
+                        "data": "\n        "
+                    },
+                    {
+                        "data": "\n        "
+                    },
+                    {
+                        "data": "\n        "
+                    },
+                    {
+                        "data": "\n        "
+                    },
+                    {
+                        "data": "\n    "
+                    }
+                ],
+                "Auditory": {
+                    "#text": {
+                        "data": "\n            \u0430\u0443\u0434. 3413\n        "
+                    }
+                },
+                "Full-adress": {
+                    "#text": {
+                        "data": "\n            room 3413 \u0443\u043b. \u041b\u043e\u043c\u043e\u043d\u043e\u0441\u043e\u0432\u0430, \u0434.9, \u043b\u0438\u0442. \u0415\n        "
+                    }
+                },
+                "Lesson": {
+                    "#text": {
+                        "data": "\n            \u0418\u043d\u043e\u0441\u0442\u0440\u0430\u043d\u043d\u044b\u0439 \u044f\u0437\u044b\u043a\n        "
+                    }
+                },
+                "Time": {
+                    "#text": [
+                        {
+                            "data": "\n            "
+                        },
+                        {
+                            "data": "\n            "
+                        },
+                        {
+                            "data": "\n        "
+                        }
+                    ],
+                    "Time-end": {
+                        "#text": {
+                            "data": "\n               15.00\n            "
+                        }
+                    },
+                    "Time-start": {
+                        "#text": {
+                            "data": "\n                13.30\n            "
+                        }
+                    }
+                }
+            }
+        }
+    }
+]

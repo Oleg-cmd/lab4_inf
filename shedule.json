@@ -1,0 +1,22 @@
+{
+"Wednesday" : {
+    "Practical-lesson-1" : {
+        "Lesson" : "Иностранныйязык",
+        "Time" : {
+            "Time-start" : "11.40",
+            "Time-end" : "13.10"
+        },
+        "Full-adress" : "room3413ул.Ломоносова,д.9,лит.Е",
+        "Auditory" : "ауд.3413"
+    },
+    "Practical-lesson-2" : {
+        "Lesson" : "Иностранныйязык",
+        "Time" : {
+            "Time-start" : "13.30",
+            "Time-end" : "15.00"
+        },
+        "Full-adress" : "room3413ул.Ломоносова,д.9,лит.Е",
+        "Auditory" : "ауд.3413"
+    }
+}
+}

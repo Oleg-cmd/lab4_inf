@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Wednesday>
+    <Practical-lesson-1>
+        <Lesson>
+            Иностранный язык
+        </Lesson>
+        <Time>
+            <Time-start>
+                11.40
+            </Time-start>
+            <Time-end>
+                13.10
+            </Time-end>
+        </Time>
+        <Full-adress>
+            room 3413 ул. Ломоносова, д.9, лит. Е
+        </Full-adress>
+        <Auditory>
+            ауд. 3413
+        </Auditory>
+    </Practical-lesson-1>
+    
+    <Practical-lesson-2>
+        <Lesson>
+            Иностранный язык
+        </Lesson>
+        <Time>
+            <Time-start>
+                13.30
+            </Time-start>
+            <Time-end>
+               15.00
+            </Time-end>
+        </Time>
+        <Full-adress>
+            room 3413 ул. Ломоносова, д.9, лит. Е
+        </Full-adress>
+        <Auditory>
+            ауд. 3413
+        </Auditory>
+    </Practical-lesson-2>
+</Wednesday>
